@@ -1,0 +1,22 @@
+#result-search a {
+    text-decoration: none !important;
+    color: #5e5e5e;
+}
+#result-search a:hover {
+    color: orange;
+}
+
+.search-item {
+    display: block;
+}
+
+.search-item .item {
+    float: left;
+    margin-left: 5px; 
+    width: 177.777px;
+    height: 320px;
+}
+
+.search-item .item .thumbnail {
+    width: 100%;
+}

@@ -1,0 +1,20 @@
+@media (min-width: 768px)
+.col-sm-3 {
+    width: 25%;
+}
+@media (min-width: 768px){
+     float:left;
+}
+#content-detail .content1 {
+    background: white;
+    padding: 30px;
+}
+
+#content-detail .link-col-right {
+    padding-left: 15px;
+}
+
+#content-detail .col-right {
+    background: #e2e2e2;
+}
+
